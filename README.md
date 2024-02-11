@@ -1,4 +1,4 @@
-* Chat GPT Clone
+# Chat GPT Clone
 
 ### Main Techs
 
